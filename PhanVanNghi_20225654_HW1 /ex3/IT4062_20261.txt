@@ -1,0 +1,9 @@
+SubjectID|IT4062
+Subject|Network Programming
+F|30|70
+Semester|20261
+StudentCount|4
+S|20201160 |NGUYEN VAN |AN | 8.5 | 7.0 | B |
+S|20211182 |TRAN QUOC |BO | 10.0 | 9.0 | A |
+S|20221191 |LE BANG |CHAN | 5.5 | 4.5 | D |
+S|202311216 |NGUYEN VAN |DUONG | 8.5 | 8.5 | A |
